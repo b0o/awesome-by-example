@@ -1,4 +1,4 @@
-# Awesome by Example [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome by Example [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![License](https://img.shields.io/npm/l/generator-awesome-list.svg)](https://www.apache.org/licenses/LICENSE-2.0)
 
 > A curated list of awesome example-based learning resources.
 
