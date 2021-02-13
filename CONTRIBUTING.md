@@ -8,9 +8,9 @@ project you agree to abide by its terms.
 
 Ensure your pull request adheres to the following guidelines:
 
-- Make sure you take care of this
-- And this as well
-- And don't forget to check this
+- Resources should be example-based.
+- Resources should be free and open source. Paid or restricted learning resources do not fall within the scope of this project.
+- Try to categorize resources appropriately. Sub-headings may be added or adjusted when necessary.
 
 Thank you for your suggestions!
 
