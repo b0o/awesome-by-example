@@ -1,6 +1,6 @@
 # Awesome by Example [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> A curated list of example-based learning resources.
+> A curated list of awesome example-based learning resources.
 
 ## Contents
 
