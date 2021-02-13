@@ -20,6 +20,7 @@
 
 - [Go by Example: A hands-on introduction to Go using annotated example programs.](https://gobyexample.com/)
 - [Ziglings: Learn the Zig programming language by fixing tiny broken programs.](https://github.com/ratfactor/ziglings)
+- [TypeScript exercises: A set of interactive TypeScript exercises](https://github.com/typescript-exercises/typescript-exercises)
 
 ## Contribute
 
