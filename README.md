@@ -14,6 +14,7 @@
 
 - [Rust by Example: Learn Rust with examples (Live code editor included)](https://github.com/rust-lang/rust-by-example)
 - [Rustlings: Small exercises to get you used to reading and writing Rust code!](https://github.com/rust-lang/rustlings)
+- [A half-hour to learn Rust](https://fasterthanli.me/articles/a-half-hour-to-learn-rust)
 
 ### Other
 
