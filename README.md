@@ -7,6 +7,8 @@
 - [Languages](#languages)
   - [Rust](#rust)
   - [Other](#other)
+- [Libraries and Frameworks](#libraries-and-frameworks)
+- [Tools](#tools)
 
 ## Languages
 
@@ -21,6 +23,18 @@
 - [Go by Example: A hands-on introduction to Go using annotated example programs.](https://gobyexample.com/)
 - [Ziglings: Learn the Zig programming language by fixing tiny broken programs.](https://github.com/ratfactor/ziglings)
 - [TypeScript exercises: A set of interactive TypeScript exercises](https://github.com/typescript-exercises/typescript-exercises)
+- [Learn Python: 📚 Playground and cheatsheet for learning Python.](https://github.com/trekhleb/learn-python)
+- [Scalania: Learn Scala by examples](https://github.com/jaceklaskowski/scalania)
+- [V by Example](https://github.com/v-community/v_by_example)
+- [Deno by Example: Learn Web Programming in Deno by Examples](https://github.com/deepakshrma/deno-by-example)
+
+## Libraries and Frameworks
+
+- [Learning Tensorflow: Simple Tensorflow tutorials for learning by example](https://github.com/michaelmendoza/learning-tensorflow)
+
+## Tools
+
+- [Makefile Tutorial: Learn make by example](https://github.com/theicfire/makefiletutorial)
 
 ## Contribute
 
