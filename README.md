@@ -7,6 +7,7 @@
 - [Languages](#languages)
   - [Clojure](#clojure)
   - [Rust](#rust)
+  - [Scala](#scala)
   - [Other](#other)
 - [Libraries and Frameworks](#libraries-and-frameworks)
 - [Tools](#tools)
@@ -26,6 +27,11 @@
 - [Rust by Example: Learn Rust with examples (Live code editor included)](https://github.com/rust-lang/rust-by-example)
 - [Rustlings: Small exercises to get you used to reading and writing Rust code](https://github.com/rust-lang/rustlings)
 
+### Scala
+
+- [Scalania: Learn Scala by examples](https://github.com/jaceklaskowski/scalania)
+- [Scala Exercises: Scala Exercises is an Open Source project for learning different technologies based in the Scala Programming Language](https://www.scala-exercises.org/)
+
 ### Other
 
 - [APLcart: Find your way in APL](https://aplcart.info/)
@@ -34,7 +40,6 @@
 - [Go by Example: A hands-on introduction to Go using annotated example programs](https://gobyexample.com/)
 - [Learn Python: 📚 Playground and cheatsheet for learning Python](https://github.com/trekhleb/learn-python)
 - [Lisp Koans: Common Lisp Koans is a language learning exercise in the same vein as the ruby koans](https://github.com/google/lisp-koans)
-- [Scalania: Learn Scala by examples](https://github.com/jaceklaskowski/scalania)
 - [SQL Koans: A set of Koans to teach SQL](https://sqlkoans.com/)
 - [TypeScript exercises: A set of interactive TypeScript exercises](https://github.com/typescript-exercises/typescript-exercises)
 - [V by Example: V by Example is a direct introduction to V by using annotated program examples](https://github.com/v-community/v_by_example)
