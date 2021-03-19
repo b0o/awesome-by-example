@@ -21,6 +21,7 @@
 ### Other
 
 - [Deno by Example: Learn Web Programming in Deno by Examples](https://github.com/deepakshrma/deno-by-example)
+- [Elm Koans: A set of koans for learning Elm](https://github.com/robertjlooby/elm-koans)
 - [Go by Example: A hands-on introduction to Go using annotated example programs.](https://gobyexample.com/)
 - [Learn Python: 📚 Playground and cheatsheet for learning Python.](https://github.com/trekhleb/learn-python)
 - [Lisp Koans: Common Lisp Koans is a language learning exercise in the same vein as the ruby koans.](https://github.com/google/lisp-koans)
