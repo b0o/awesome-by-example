@@ -23,6 +23,7 @@
 - [Deno by Example: Learn Web Programming in Deno by Examples](https://github.com/deepakshrma/deno-by-example)
 - [Go by Example: A hands-on introduction to Go using annotated example programs.](https://gobyexample.com/)
 - [Learn Python: 📚 Playground and cheatsheet for learning Python.](https://github.com/trekhleb/learn-python)
+- [Lisp Koans: Common Lisp Koans is a language learning exercise in the same vein as the ruby koans.](https://github.com/google/lisp-koans)
 - [Scalania: Learn Scala by examples](https://github.com/jaceklaskowski/scalania)
 - [TypeScript exercises: A set of interactive TypeScript exercises](https://github.com/typescript-exercises/typescript-exercises)
 - [V by Example](https://github.com/v-community/v_by_example)
