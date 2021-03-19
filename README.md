@@ -40,6 +40,7 @@
 - [Go by Example: A hands-on introduction to Go using annotated example programs](https://gobyexample.com/)
 - [Learn Python: 📚 Playground and cheatsheet for learning Python](https://github.com/trekhleb/learn-python)
 - [Lisp Koans: Common Lisp Koans is a language learning exercise in the same vein as the ruby koans](https://github.com/google/lisp-koans)
+- [Ruby Koans: Learn Ruby with the Edgecase Ruby Koans](http://rubykoans.com/)
 - [SQL Koans: A set of Koans to teach SQL](https://sqlkoans.com/)
 - [TypeScript exercises: A set of interactive TypeScript exercises](https://github.com/typescript-exercises/typescript-exercises)
 - [V by Example: V by Example is a direct introduction to V by using annotated program examples](https://github.com/v-community/v_by_example)
