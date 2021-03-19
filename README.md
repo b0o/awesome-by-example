@@ -15,7 +15,7 @@
 
 ### Clojure
 
-- [4clojure: 4Clojure is a resource to help fledgling clojurians learn the language through interactive problems.!](https://www.4clojure.com/)
+- [4clojure: 4Clojure is a resource to help fledgling clojurians learn the language through interactive problems](https://www.4clojure.com/)
 - [Clojure Koans: Clojure koans are exercises meant to initiate you to the mysteries of the Clojure language](http://clojurekoans.com/)
 - [ClojureScript Koans: The ClojureScript koans walk you along the path of enlightenment to learning ClojureScript](http://clojurescriptkoans.com/)
 
@@ -23,21 +23,21 @@
 
 - [A half-hour to learn Rust](https://fasterthanli.me/articles/a-half-hour-to-learn-rust)
 - [Rust by Example: Learn Rust with examples (Live code editor included)](https://github.com/rust-lang/rust-by-example)
-- [Rustlings: Small exercises to get you used to reading and writing Rust code!](https://github.com/rust-lang/rustlings)
+- [Rustlings: Small exercises to get you used to reading and writing Rust code](https://github.com/rust-lang/rustlings)
 
 ### Other
 
-- [APLcart - Find your way in APL](https://aplcart.info/)
+- [APLcart: Find your way in APL](https://aplcart.info/)
 - [Deno by Example: Learn Web Programming in Deno by Examples](https://github.com/deepakshrma/deno-by-example)
 - [Elm Koans: A set of koans for learning Elm](https://github.com/robertjlooby/elm-koans)
-- [Go by Example: A hands-on introduction to Go using annotated example programs.](https://gobyexample.com/)
-- [Learn Python: 📚 Playground and cheatsheet for learning Python.](https://github.com/trekhleb/learn-python)
-- [Lisp Koans: Common Lisp Koans is a language learning exercise in the same vein as the ruby koans.](https://github.com/google/lisp-koans)
+- [Go by Example: A hands-on introduction to Go using annotated example programs](https://gobyexample.com/)
+- [Learn Python: 📚 Playground and cheatsheet for learning Python](https://github.com/trekhleb/learn-python)
+- [Lisp Koans: Common Lisp Koans is a language learning exercise in the same vein as the ruby koans](https://github.com/google/lisp-koans)
 - [Scalania: Learn Scala by examples](https://github.com/jaceklaskowski/scalania)
 - [SQL Koans: A set of Koans to teach SQL](https://sqlkoans.com/)
 - [TypeScript exercises: A set of interactive TypeScript exercises](https://github.com/typescript-exercises/typescript-exercises)
-- [V by Example](https://github.com/v-community/v_by_example)
-- [Ziglings: Learn the Zig programming language by fixing tiny broken programs.](https://github.com/ratfactor/ziglings)
+- [V by Example: V by Example is a direct introduction to V by using annotated program examples](https://github.com/v-community/v_by_example)
+- [Ziglings: Learn the Zig programming language by fixing tiny broken programs](https://github.com/ratfactor/ziglings)
 
 ## Libraries and Frameworks
 
