@@ -14,19 +14,19 @@
 
 ### Rust
 
+- [A half-hour to learn Rust](https://fasterthanli.me/articles/a-half-hour-to-learn-rust)
 - [Rust by Example: Learn Rust with examples (Live code editor included)](https://github.com/rust-lang/rust-by-example)
 - [Rustlings: Small exercises to get you used to reading and writing Rust code!](https://github.com/rust-lang/rustlings)
-- [A half-hour to learn Rust](https://fasterthanli.me/articles/a-half-hour-to-learn-rust)
 
 ### Other
 
+- [Deno by Example: Learn Web Programming in Deno by Examples](https://github.com/deepakshrma/deno-by-example)
 - [Go by Example: A hands-on introduction to Go using annotated example programs.](https://gobyexample.com/)
-- [Ziglings: Learn the Zig programming language by fixing tiny broken programs.](https://github.com/ratfactor/ziglings)
-- [TypeScript exercises: A set of interactive TypeScript exercises](https://github.com/typescript-exercises/typescript-exercises)
 - [Learn Python: 📚 Playground and cheatsheet for learning Python.](https://github.com/trekhleb/learn-python)
 - [Scalania: Learn Scala by examples](https://github.com/jaceklaskowski/scalania)
+- [TypeScript exercises: A set of interactive TypeScript exercises](https://github.com/typescript-exercises/typescript-exercises)
 - [V by Example](https://github.com/v-community/v_by_example)
-- [Deno by Example: Learn Web Programming in Deno by Examples](https://github.com/deepakshrma/deno-by-example)
+- [Ziglings: Learn the Zig programming language by fixing tiny broken programs.](https://github.com/ratfactor/ziglings)
 
 ## Libraries and Frameworks
 
