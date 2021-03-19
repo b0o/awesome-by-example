@@ -25,6 +25,7 @@
 - [Learn Python: 📚 Playground and cheatsheet for learning Python.](https://github.com/trekhleb/learn-python)
 - [Lisp Koans: Common Lisp Koans is a language learning exercise in the same vein as the ruby koans.](https://github.com/google/lisp-koans)
 - [Scalania: Learn Scala by examples](https://github.com/jaceklaskowski/scalania)
+- [SQL Koans: A set of Koans to teach SQL](https://sqlkoans.com/)
 - [TypeScript exercises: A set of interactive TypeScript exercises](https://github.com/typescript-exercises/typescript-exercises)
 - [V by Example](https://github.com/v-community/v_by_example)
 - [Ziglings: Learn the Zig programming language by fixing tiny broken programs.](https://github.com/ratfactor/ziglings)
