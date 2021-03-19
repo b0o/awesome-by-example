@@ -12,6 +12,8 @@
 - [Libraries and Frameworks](#libraries-and-frameworks)
 - [Tools](#tools)
 - [Related Lists](#related-lists)
+- [Credits](#credits)
+- [Contribute](#contribute)
 
 ## Languages
 
@@ -57,6 +59,10 @@
 ## Related Lists
 
 - [ahmdrefat/awesome-koans](https://github.com/ahmdrefat/awesome-koans/blob/master/koans-en.md)
+
+## Credits
+
+- Numerous Koans were taken from [ahmdrefat/awesome-koans](https://github.com/ahmdrefat/awesome-koans/blob/master/koans-en.md).
 
 ## Contribute
 
