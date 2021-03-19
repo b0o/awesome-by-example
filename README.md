@@ -10,6 +10,7 @@
   - [Other](#other)
 - [Libraries and Frameworks](#libraries-and-frameworks)
 - [Tools](#tools)
+- [Related Lists](#related-lists)
 
 ## Languages
 
@@ -46,6 +47,10 @@
 ## Tools
 
 - [Makefile Tutorial: Learn make by example](https://github.com/theicfire/makefiletutorial)
+
+## Related Lists
+
+- [ahmdrefat/awesome-koans](https://github.com/ahmdrefat/awesome-koans/blob/master/koans-en.md)
 
 ## Contribute
 
