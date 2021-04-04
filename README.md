@@ -108,6 +108,7 @@
 ## General Resources
 
 - [Exercism.io: Level up your programming skills with 3,450 exercises across 52 languages](https://exercism.io/)
+- [Learn X in Y Minutes: Scenic Programming Language Tours](https://learnxinyminutes.com/)
 
 ## Related Lists
 
