@@ -40,7 +40,7 @@
 
 ### Haskell
 - [The Haskell Phrasebook](https://typeclasses.com/phrasebook)
-- [Haskell Programming - Home](https://haskellbook.com/)
+- [Haskell Programming from first principles](https://haskellbook.com/)
 
 ### Java
 
