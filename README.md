@@ -7,6 +7,7 @@
 - [Languages](#languages)
   - [Clojure](#clojure)
   - [Go](#go)
+  - [Haskell](#haskell)
   - [Java](#java)
   - [JavaScript](#javascript)
   - [Python](#python)
@@ -36,6 +37,10 @@
 
 - [Go by Example: A hands-on introduction to Go using annotated example programs](https://gobyexample.com/)
 - [Go Koans: Koans for Go](https://github.com/cdarwin/go-koans)
+
+### Haskell
+- [The Haskell Phrasebook](https://typeclasses.com/phrasebook)
+- [Haskell Programming - Home](https://haskellbook.com/)
 
 ### Java
 
@@ -81,7 +86,6 @@
 - [FSharpKoans: A simple, fun, and interactive way to learn the F# language through testing](https://github.com/ChrisMarinos/FSharpKoans)
 - [FP Course: Learn Functional Programming concepts with the Haskell programming language](https://github.com/tonymorris/course)
 - [GNU Smalltalk Koans: A set of tests to teach you Smalltalk](https://github.com/sl4m/gnu_smalltalk_koans)
-- [Haskell Programming - Home](https://haskellbook.com/)
 - [Lisp Koans: Common Lisp Koans is a language learning exercise in the same vein as the ruby koans](https://github.com/google/lisp-koans)
 - [Lua Missions: Lua Koans, minus the Zen stuff](https://github.com/kikito/lua_missions)
 - [Perl Koans: A framework to learn-by-doing for Perl, with a heavy emphasis on testing](https://github.com/forcedotcom/PerlKoans)
