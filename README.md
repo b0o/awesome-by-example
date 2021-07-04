@@ -40,7 +40,8 @@
 
 ### Haskell
 - [The Haskell Phrasebook](https://typeclasses.com/phrasebook)
-- [Haskell Programming from first principles](https://haskellbook.com/)
+- [Haskell Programming from first principles](https://haskellbook.com/) (book, paid, proprietary)
+- [Learn You a Haskell for Great Good!](http://learnyouahaskell.com/)
 
 ### Java
 
@@ -92,6 +93,7 @@
 - [PSKoans: A simple, fun, and interactive way to learn the PowerShell language through Pester unit testing.](https://github.com/vexx32/PSKoans)
 - [TypeScript exercises: A set of interactive TypeScript exercises](https://github.com/typescript-exercises/typescript-exercises)
 - [V by Example: V by Example is a direct introduction to V by using annotated program examples](https://github.com/v-community/v_by_example)
+- [Learn Vimscript the Hard Way](https://learnvimscriptthehardway.stevelosh.com/)
 - [Ziglings: Learn the Zig programming language by fixing tiny broken programs](https://github.com/ratfactor/ziglings)
 
 ## Databases
@@ -113,6 +115,7 @@
 
 - [Exercism.io: Level up your programming skills with 3,450 exercises across 52 languages](https://exercism.io/)
 - [Learn X in Y Minutes: Scenic Programming Language Tours](https://learnxinyminutes.com/)
+
 
 ## Related Lists
 
