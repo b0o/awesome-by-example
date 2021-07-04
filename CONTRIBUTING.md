@@ -12,6 +12,7 @@ Ensure your pull request adheres to the following guidelines:
   - Example-based.
   - Technically oriented.
   - Free and open source. Paid or restricted learning resources do not fall within the scope of this project.
+    - Physical books are an exception as long as a free, legal, ebook is also available.
   - Reasonably up-to-date. Outdated resources will be periodically purged from the list.
 - Try to categorize resources appropriately. Sub-headings may be added or adjusted when necessary.
 
