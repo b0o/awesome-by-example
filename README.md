@@ -40,8 +40,8 @@
 
 ### Haskell
 - [The Haskell Phrasebook](https://typeclasses.com/phrasebook)
-- [Haskell Programming from first principles](https://haskellbook.com/) (book, paid, proprietary)
 - [Learn You a Haskell for Great Good!](http://learnyouahaskell.com/)
+- [Haskell Programming from first principles](https://haskellbook.com/) (⚠️ nonfree, proprietary)
 
 ### Java
 
