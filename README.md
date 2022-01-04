@@ -113,6 +113,7 @@
 
 - [ReactJS Koans: Learn basics of React.js making the tests pass](https://github.com/arkency/reactjs_koans)
 - [Learning Tensorflow: Simple Tensorflow tutorials for learning by example](https://github.com/michaelmendoza/learning-tensorflow)
+- [OSMnx Examples: Usage examples, demos, and tutorials for OSMnx (OpenStreetMap)](https://github.com/gboeing/osmnx-examples)
 
 ## Tools
 
