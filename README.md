@@ -39,6 +39,7 @@
 - [Go Koans: Koans for Go](https://github.com/cdarwin/go-koans)
 
 ### Haskell
+
 - [The Haskell Phrasebook](https://typeclasses.com/phrasebook)
 - [Learn You a Haskell for Great Good!](http://learnyouahaskell.com/)
 - [Haskell Programming from first principles](https://haskellbook.com/) (⚠️ nonfree, proprietary)
@@ -51,17 +52,18 @@
 ### JavaScript
 
 - [JavaScript Koans: Koans to learn Javascript](https://github.com/mrdavidlaing/javascript-koans)
-- [JavaScript Koans: An interactive learning environment that uses failing tests to introduce students to aspects of JavaScript in a logical sequence.](https://github.com/liammclennan/JavaScript-Koans)
+- [JavaScript Koans: An interactive learning environment that uses failing tests to introduce students to aspects of JavaScript in a logical sequence](https://github.com/liammclennan/JavaScript-Koans)
 
 ### Python
 
 - [Learn Python: 📚 Playground and cheatsheet for learning Python](https://github.com/trekhleb/learn-python)
 - [Python Koans: Learn Python through TDD](https://github.com/gregmalcolm/python_koans)
+- [Pytudes: Python programs, usually short, of considerable difficulty, to perfect particular skills](https://github.com/norvig/pytudes)
 
 ### Ruby
 
 - [Ruby Koans: Learn Ruby with the Edgecase Ruby Koans](https://github.com/edgecase/ruby_koans)
-- [Ruby Metaprograaming Koans (Inspired by EdgeCase RubyKoans).](https://github.com/sathish316/metaprogramming_koans)
+- [Ruby Metaprograaming Koans (Inspired by EdgeCase RubyKoans)](https://github.com/sathish316/metaprogramming_koans)
 
 ### Rust
 
@@ -79,7 +81,7 @@
 - [30 Days of Elixir: A walk through the Elixir language in 30 exercises](https://github.com/seven1m/30-days-of-elixir)
 - [APLcart: Find your way in APL](https://aplcart.info/)
 - [Coffeescript Koans: learn CoffeeScript by doing it](https://github.com/sleepyfox/coffeescript-koans)
-- [Dart_koans: Achieve enlightenment through failure](https://github.com/butlermatt/dart_koans)
+- [Dart Koans: Achieve enlightenment through failure](https://github.com/butlermatt/dart_koans)
 - [Deno by Example: Learn Web Programming in Deno by Examples](https://github.com/deepakshrma/deno-by-example)
 - [DLangKoans: An educational unit test suite for the D Programming Language](https://github.com/ilmanzo/DLangKoans)
 - [Elm Koans: A set of koans for learning Elm](https://github.com/robertjlooby/elm-koans)
@@ -90,7 +92,7 @@
 - [Lisp Koans: Common Lisp Koans is a language learning exercise in the same vein as the ruby koans](https://github.com/google/lisp-koans)
 - [Lua Missions: Lua Koans, minus the Zen stuff](https://github.com/kikito/lua_missions)
 - [Perl Koans: A framework to learn-by-doing for Perl, with a heavy emphasis on testing](https://github.com/forcedotcom/PerlKoans)
-- [PSKoans: A simple, fun, and interactive way to learn the PowerShell language through Pester unit testing.](https://github.com/vexx32/PSKoans)
+- [PSKoans: A simple, fun, and interactive way to learn the PowerShell language through Pester unit testing](https://github.com/vexx32/PSKoans)
 - [TypeScript exercises: A set of interactive TypeScript exercises](https://github.com/typescript-exercises/typescript-exercises)
 - [V by Example: V by Example is a direct introduction to V by using annotated program examples](https://github.com/v-community/v_by_example)
 - [Learn Vimscript the Hard Way](https://learnvimscriptthehardway.stevelosh.com/)
@@ -115,7 +117,6 @@
 
 - [Exercism.io: Level up your programming skills with 3,450 exercises across 52 languages](https://exercism.io/)
 - [Learn X in Y Minutes: Scenic Programming Language Tours](https://learnxinyminutes.com/)
-
 
 ## Related Lists
 
