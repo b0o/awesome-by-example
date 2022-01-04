@@ -65,6 +65,7 @@
 - [Learn Python: 📚 Playground and cheatsheet for learning Python](https://github.com/trekhleb/learn-python)
 - [Python Koans: Learn Python through TDD](https://github.com/gregmalcolm/python_koans)
 - [Pytudes: Python programs, usually short, of considerable difficulty, to perfect particular skills](https://github.com/norvig/pytudes)
+- [geekcomputers/Python: A large collection of simple example Python programs](https://github.com/geekcomputers/Python)
 
 ### Ruby
 
