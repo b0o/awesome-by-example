@@ -6,6 +6,7 @@
 
 - [Languages](#languages)
   - [Clojure](#clojure)
+  - [Elm](#elm)
   - [Go](#go)
   - [Haskell](#haskell)
   - [Java](#java)
@@ -32,6 +33,11 @@
 - [Clojure Koans: Clojure koans are exercises meant to initiate you to the mysteries of the Clojure language](http://clojurekoans.com/)
 - [ClojureScript Koans: The ClojureScript koans walk you along the path of enlightenment to learning ClojureScript](http://clojurescriptkoans.com/)
 - [Core.logic Koans: Learn core.logic with koans!](https://github.com/sritchie/core.logic-koans)
+
+### Elm
+
+- [Elm Koans: A set of koans for learning Elm](https://github.com/robertjlooby/elm-koans)
+- [Elm-TodoMVC: The TodoMVC app written in Elm, nice example for beginners](https://github.com/evancz/elm-todomvc)
 
 ### Go
 
