@@ -122,6 +122,10 @@
 - [Git Immersion: A guided tour that walks through the fundamentals of Git](http://gitimmersion.com/)
 - [Makefile Tutorial: Learn make by example](https://github.com/theicfire/makefiletutorial)
 
+## SaaS and APIs
+
+- [Apps Script Samples: Apps Script samples for Google Workspace products](https://github.com/googleworkspace/apps-script-samples)
+
 ## General Resources
 
 - [Exercism.io: Level up your programming skills with 3,450 exercises across 52 languages](https://exercism.io/)
