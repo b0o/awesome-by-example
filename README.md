@@ -91,7 +91,6 @@
 - [Dart Koans: Achieve enlightenment through failure](https://github.com/butlermatt/dart_koans)
 - [Deno by Example: Learn Web Programming in Deno by Examples](https://github.com/deepakshrma/deno-by-example)
 - [DLangKoans: An educational unit test suite for the D Programming Language](https://github.com/ilmanzo/DLangKoans)
-- [Elm Koans: A set of koans for learning Elm](https://github.com/robertjlooby/elm-koans)
 - [Erlang Koans: A set of koans for learning Erlang](https://github.com/patrickgombert/erlang-koans)
 - [FSharpKoans: A simple, fun, and interactive way to learn the F# language through testing](https://github.com/ChrisMarinos/FSharpKoans)
 - [FP Course: Learn Functional Programming concepts with the Haskell programming language](https://github.com/tonymorris/course)
