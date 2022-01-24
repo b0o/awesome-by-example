@@ -119,6 +119,7 @@
 ## Tools
 
 - [Git Immersion: A guided tour that walks through the fundamentals of Git](http://gitimmersion.com/)
+- [GitHub Actions by Example](https://www.actionsbyexample.com/)
 - [Makefile Tutorial: Learn make by example](https://github.com/theicfire/makefiletutorial)
 
 ## SaaS and APIs
