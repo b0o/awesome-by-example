@@ -15,10 +15,11 @@
   - [Ruby](#ruby)
   - [Rust](#rust)
   - [Scala](#scala)
-  - [Other](#other-languages)
+  - [Other Languages](#other-languages)
 - [Databases](#databases)
 - [Libraries and Frameworks](#libraries-and-frameworks)
 - [Tools](#tools)
+- [SaaS and APIs](#saas-and-apis)
 - [General Resources](#general-resources)
 - [Related Lists](#related-lists)
 - [Credits](#credits)
@@ -57,7 +58,7 @@
 
 ### JavaScript
 
-- [JavaScript Koans: Koans to learn Javascript](https://github.com/mrdavidlaing/javascript-koans)
+- [JavaScript Koans: Koans to learn JavaScript](https://github.com/mrdavidlaing/javascript-koans)
 - [JavaScript Koans: An interactive learning environment that uses failing tests to introduce students to aspects of JavaScript in a logical sequence](https://github.com/liammclennan/JavaScript-Koans)
 
 ### Python
@@ -137,7 +138,7 @@
 
 ## Credits
 
-- Numerous Koans were adapted from [ahmdrefat/awesome-koans](https://github.com/ahmdrefat/awesome-koans/blob/master/koans-en.md).
+- Numerous Koans were adapted from [ahmdrefat/awesome-koans](https://github.com/ahmdrefat/awesome-koans).
 
 ## Contribute
 
