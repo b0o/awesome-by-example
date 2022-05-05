@@ -98,6 +98,7 @@
 - [GNU Smalltalk Koans: A set of tests to teach you Smalltalk](https://github.com/sl4m/gnu_smalltalk_koans)
 - [Lisp Koans: Common Lisp Koans is a language learning exercise in the same vein as the ruby koans](https://github.com/google/lisp-koans)
 - [Lua Missions: Lua Koans, minus the Zen stuff](https://github.com/kikito/lua_missions)
+- [Writing a Game Boy Emulator in OCaml](https://linoscope.github.io/writing-a-game-boy-emulator-in-ocaml/)
 - [Perl Koans: A framework to learn-by-doing for Perl, with a heavy emphasis on testing](https://github.com/forcedotcom/PerlKoans)
 - [PSKoans: A simple, fun, and interactive way to learn the PowerShell language through Pester unit testing](https://github.com/vexx32/PSKoans)
 - [TypeScript exercises: A set of interactive TypeScript exercises](https://github.com/typescript-exercises/typescript-exercises)
