@@ -5,6 +5,7 @@
 ## Contents
 
 - [Languages](#languages)
+  - [Assembly](#assembly)
   - [Clojure](#clojure)
   - [Elm](#elm)
   - [Go](#go)
@@ -26,6 +27,10 @@
 - [Contribute](#contribute)
 
 ## Languages
+
+### Assembly
+
+- [Asmlings: Learn x86-64 assembly by fixing small programs](https://github.com/KazeTachinuu/asmlings)
 
 ### Clojure
 
